@@ -1,5 +1,6 @@
 # CODE FOR PIBLICATION -
 Cite as : Aayush Jaiswal, Neha Gianchandani, Dilbag Singh, Vijay Kumar & Manjit Kaur (2020) Classification of the COVID-19 infected patients using DenseNet201 based deep transfer learning, Journal of Biomolecular Structure and Dynamics, DOI: 10.1080/07391102.2020.1788642
+[Read publication](https://www.tandfonline.com/doi/full/10.1080/07391102.2020.1788642)
 
 # Covid-19-Classifier
 This is a project with a working website integrated with a CNN model to make predictions whether a patient is covid-19 positive or not
